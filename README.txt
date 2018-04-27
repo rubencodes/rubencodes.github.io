@@ -1,3 +1,4 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/rubencodes/pen/KoOOpP.
+# Personal Website Project
 
+Original source code is in the `/babel` directory and `/scss` directory. Transpiled source is available in `/js` and `/css`.
  
